@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="deep_orange">#e64a19</color>
+    <color name="light_green">#8BC34A</color>
+    <color name="light_blue">#03A9F4</color>
+    <color name="light_red">#F44336</color>
+    <color name="dark_blue">#303F9F</color>
+    <color name="amber">#FFC107</color>
+    <color name="highlight_background_color">#63C5EC</color>
+
+
+</resources>

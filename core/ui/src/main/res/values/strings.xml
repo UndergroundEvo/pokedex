@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pokemon</string>
+    <string name="pokemon_list_appbar_title">Pokedex</string>
+    <string name="pokemon_list_appbar_menu_filter">Filter</string>
+    <string name="pokemon_list_appbar_menu_reload">Reload</string>
+    <string name="pokemon_list_appbar_menu_sort">Sort</string>
+    <string name="filter_bottom_sheet_title">Chose criteria</string>
+    <string name="filter_criteria_attack">Attack</string>
+    <string name="filter_criteria_defense">Defense</string>
+    <string name="filter_criteria_hp">HP</string>
+    <string name="filter_button_reset">Reset</string>
+    <string name="filter_button_apply">Apply</string>
+</resources>
